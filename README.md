@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/eunice12jk/car-class-lab.svg?branch=master)](https://travis-ci.org/eunice12jk/car-class-lab)
 ### Car Class
 
 You are to create a Car class that can be used to instantiate various vehicles.
